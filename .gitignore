@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.log
+*.png
+*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Selenium
+geckodriver.log
+chromedriver.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Bot
+bot.log
+login_error.png
